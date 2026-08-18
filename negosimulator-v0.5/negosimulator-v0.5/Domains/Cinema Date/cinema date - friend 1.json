@@ -1,0 +1,71 @@
+{
+"domain_name": "movie date",
+"role": "friend_1",
+"issues": [
+	{
+		"issue_name": "cinema",
+		"issue_weight": 0.1,
+		"options": [
+			{
+			  "option": "Paradiso",
+			  "evaluation": 0
+			},
+			{
+			  "option": "Rialto",
+			  "evaluation": 1
+			}
+		]
+	},
+	{
+		"issue_name": "movie",
+		"issue_weight": 0.5,
+		"options": [
+			{
+			  "option": "Casablanca",
+			  "evaluation": 0
+			},
+			{
+			  "option": "The Big Lebowski",
+			  "evaluation": 0.7
+			},
+			{
+			  "option": "The Godfather",
+			  "evaluation": 1
+			}
+		
+		]
+	},
+	{
+		"issue_name": "time slot",
+		"issue_weight": 0.4,
+		"options":[
+			{
+			  "option": "Thu 20:00",
+			  "evaluation": 0
+			},
+			{
+			  "option": "Thu 22:00",
+			  "evaluation": 0.1
+			},
+						{
+			  "option": "Fri 20:00",
+			  "evaluation": 0.4
+			},
+			{
+			  "option": "Fri 22:00",
+			  "evaluation": 0.5
+			},
+						{
+			  "option": "Sat 20:00",
+			  "evaluation": 0.8
+			},
+			{
+			  "option": "Sat 22:00",
+			  "evaluation": 1
+			}
+		]
+	}
+],
+"reservation_value": 0.25
+	
+}

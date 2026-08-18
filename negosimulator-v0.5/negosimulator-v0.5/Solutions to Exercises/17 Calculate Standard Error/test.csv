@@ -1,0 +1,34 @@
+sep=;
+Agent 1;Agent 2;Domain;Agreement?;Util 1;Util 2
+RandomAgent;RandomAgent;Car Sale;YES;0.8;0.7
+RandomAgent;TimeBasedAgent;Car Sale;YES;0.3;1.0
+RandomAgent;AdaptiveAgent;Car Sale;YES;0.3;1.0
+RandomAgent;MiCROAgent;Car Sale;YES;0.44999999999999996;0.76
+TimeBasedAgent;RandomAgent;Car Sale;YES;1.0;0.0
+TimeBasedAgent;TimeBasedAgent;Car Sale;YES;0.8;0.7
+TimeBasedAgent;AdaptiveAgent;Car Sale;YES;0.3;1.0
+TimeBasedAgent;MiCROAgent;Car Sale;YES;0.8;0.7
+AdaptiveAgent;RandomAgent;Car Sale;YES;1.0;0.0
+AdaptiveAgent;TimeBasedAgent;Car Sale;YES;0.8;0.7
+AdaptiveAgent;AdaptiveAgent;Car Sale;YES;0.8;0.7
+AdaptiveAgent;MiCROAgent;Car Sale;YES;0.8;0.7
+MiCROAgent;RandomAgent;Car Sale;YES;1.0;0.0
+MiCROAgent;TimeBasedAgent;Car Sale;YES;0.8;0.7
+MiCROAgent;AdaptiveAgent;Car Sale;YES;0.8;0.7
+MiCROAgent;MiCROAgent;Car Sale;YES;0.8;0.7
+RandomAgent;RandomAgent;movie date;YES;0.1;0.0
+RandomAgent;TimeBasedAgent;movie date;YES;0.51;1.0
+RandomAgent;AdaptiveAgent;movie date;YES;0.51;1.0
+RandomAgent;MiCROAgent;movie date;YES;0.66;0.96
+TimeBasedAgent;RandomAgent;movie date;YES;1.0;0.23500000000000004
+TimeBasedAgent;TimeBasedAgent;movie date;YES;0.8200000000000001;0.81
+TimeBasedAgent;AdaptiveAgent;movie date;YES;0.51;1.0
+TimeBasedAgent;MiCROAgent;movie date;YES;0.8200000000000001;0.81
+AdaptiveAgent;RandomAgent;movie date;YES;1.0;0.23500000000000004
+AdaptiveAgent;TimeBasedAgent;movie date;YES;0.92;0.31000000000000005
+AdaptiveAgent;AdaptiveAgent;movie date;YES;1.0;0.23500000000000004
+AdaptiveAgent;MiCROAgent;movie date;YES;0.8200000000000001;0.81
+MiCROAgent;RandomAgent;movie date;YES;0.85;0.275
+MiCROAgent;TimeBasedAgent;movie date;YES;0.8200000000000001;0.81
+MiCROAgent;AdaptiveAgent;movie date;YES;0.8200000000000001;0.81
+MiCROAgent;MiCROAgent;movie date;YES;0.8200000000000001;0.81

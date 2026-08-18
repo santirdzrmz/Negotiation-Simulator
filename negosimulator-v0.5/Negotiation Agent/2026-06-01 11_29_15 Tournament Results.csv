@@ -1,0 +1,394 @@
+sep=;
+Agent1;Agent2;Domain;Agreement;Util1;Util2
+RandomAgent;RandomAgent;Car Sale;YES;1.0000;0.0000
+RandomAgent;TimeBased_Boulware;Car Sale;YES;0.3000;1.0000
+RandomAgent;TimeBased_Conceder;Car Sale;YES;0.3000;1.0000
+RandomAgent;AdaptiveAgent;Car Sale;YES;0.3000;1.0000
+RandomAgent;MiCROAgent;Car Sale;YES;0.3000;1.0000
+RandomAgent;PhoenixAgent;Car Sale;YES;0.3000;1.0000
+RandomAgent;VortexAgent;Car Sale;YES;0.3000;1.0000
+TimeBased_Boulware;RandomAgent;Car Sale;YES;1.0000;0.0000
+TimeBased_Boulware;TimeBased_Boulware;Car Sale;YES;0.8000;0.7000
+TimeBased_Boulware;TimeBased_Conceder;Car Sale;YES;0.8000;0.7000
+TimeBased_Boulware;AdaptiveAgent;Car Sale;YES;0.3000;1.0000
+TimeBased_Boulware;MiCROAgent;Car Sale;YES;0.8000;0.7000
+TimeBased_Boulware;PhoenixAgent;Car Sale;YES;0.4500;0.7600
+TimeBased_Boulware;VortexAgent;Car Sale;YES;0.8000;0.7000
+TimeBased_Conceder;RandomAgent;Car Sale;YES;1.0000;0.0000
+TimeBased_Conceder;TimeBased_Boulware;Car Sale;YES;0.4500;0.7600
+TimeBased_Conceder;TimeBased_Conceder;Car Sale;YES;0.8000;0.7000
+TimeBased_Conceder;AdaptiveAgent;Car Sale;YES;0.3000;1.0000
+TimeBased_Conceder;MiCROAgent;Car Sale;YES;0.8000;0.7000
+TimeBased_Conceder;PhoenixAgent;Car Sale;YES;0.3000;1.0000
+TimeBased_Conceder;VortexAgent;Car Sale;YES;0.8000;0.7000
+AdaptiveAgent;RandomAgent;Car Sale;YES;1.0000;0.0000
+AdaptiveAgent;TimeBased_Boulware;Car Sale;YES;0.8000;0.7000
+AdaptiveAgent;TimeBased_Conceder;Car Sale;YES;0.8000;0.7000
+AdaptiveAgent;AdaptiveAgent;Car Sale;YES;1.0000;0.0000
+AdaptiveAgent;MiCROAgent;Car Sale;YES;0.8000;0.7000
+AdaptiveAgent;PhoenixAgent;Car Sale;NO;0.0000;0.0000
+AdaptiveAgent;VortexAgent;Car Sale;YES;0.8000;0.7000
+MiCROAgent;RandomAgent;Car Sale;YES;0.6500;0.0600
+MiCROAgent;TimeBased_Boulware;Car Sale;YES;0.8000;0.7000
+MiCROAgent;TimeBased_Conceder;Car Sale;YES;0.8000;0.7000
+MiCROAgent;AdaptiveAgent;Car Sale;YES;0.8000;0.7000
+MiCROAgent;MiCROAgent;Car Sale;YES;0.8000;0.7000
+MiCROAgent;PhoenixAgent;Car Sale;YES;0.8000;0.7000
+MiCROAgent;VortexAgent;Car Sale;YES;0.6500;0.0600
+PhoenixAgent;RandomAgent;Car Sale;YES;1.0000;0.0000
+PhoenixAgent;TimeBased_Boulware;Car Sale;YES;0.8000;0.7000
+PhoenixAgent;TimeBased_Conceder;Car Sale;YES;0.8000;0.7000
+PhoenixAgent;AdaptiveAgent;Car Sale;YES;0.3000;1.0000
+PhoenixAgent;MiCROAgent;Car Sale;YES;0.8000;0.7000
+PhoenixAgent;PhoenixAgent;Car Sale;YES;0.3000;1.0000
+PhoenixAgent;VortexAgent;Car Sale;YES;0.8000;0.7000
+VortexAgent;RandomAgent;Car Sale;YES;0.1500;0.3400
+VortexAgent;TimeBased_Boulware;Car Sale;YES;0.3000;1.0000
+VortexAgent;TimeBased_Conceder;Car Sale;YES;0.3000;1.0000
+VortexAgent;AdaptiveAgent;Car Sale;YES;0.3000;1.0000
+VortexAgent;MiCROAgent;Car Sale;YES;0.3000;1.0000
+VortexAgent;PhoenixAgent;Car Sale;YES;0.3000;1.0000
+VortexAgent;VortexAgent;Car Sale;YES;0.3000;1.0000
+RandomAgent;RandomAgent;movie date;YES;0.5500;0.9250
+RandomAgent;TimeBased_Boulware;movie date;YES;0.5100;1.0000
+RandomAgent;TimeBased_Conceder;movie date;YES;0.5100;1.0000
+RandomAgent;AdaptiveAgent;movie date;YES;0.5100;1.0000
+RandomAgent;MiCROAgent;movie date;YES;0.3900;0.8500
+RandomAgent;PhoenixAgent;movie date;YES;0.5100;1.0000
+RandomAgent;VortexAgent;movie date;YES;0.5100;1.0000
+TimeBased_Boulware;RandomAgent;movie date;YES;1.0000;0.2350
+TimeBased_Boulware;TimeBased_Boulware;movie date;YES;0.8200;0.8100
+TimeBased_Boulware;TimeBased_Conceder;movie date;YES;0.9000;0.7350
+TimeBased_Boulware;AdaptiveAgent;movie date;YES;0.5100;1.0000
+TimeBased_Boulware;MiCROAgent;movie date;YES;0.8200;0.8100
+TimeBased_Boulware;PhoenixAgent;movie date;YES;0.7000;0.8850
+TimeBased_Boulware;VortexAgent;movie date;YES;1.0000;0.2350
+TimeBased_Conceder;RandomAgent;movie date;YES;1.0000;0.2350
+TimeBased_Conceder;TimeBased_Boulware;movie date;YES;0.6600;0.9600
+TimeBased_Conceder;TimeBased_Conceder;movie date;YES;0.8200;0.8100
+TimeBased_Conceder;AdaptiveAgent;movie date;YES;0.5100;1.0000
+TimeBased_Conceder;MiCROAgent;movie date;YES;0.8200;0.8100
+TimeBased_Conceder;PhoenixAgent;movie date;YES;0.5100;1.0000
+TimeBased_Conceder;VortexAgent;movie date;YES;1.0000;0.2350
+AdaptiveAgent;RandomAgent;movie date;YES;1.0000;0.2350
+AdaptiveAgent;TimeBased_Boulware;movie date;YES;1.0000;0.2350
+AdaptiveAgent;TimeBased_Conceder;movie date;YES;1.0000;0.2350
+AdaptiveAgent;AdaptiveAgent;movie date;YES;0.9200;0.3100
+AdaptiveAgent;MiCROAgent;movie date;YES;0.8200;0.8100
+AdaptiveAgent;PhoenixAgent;movie date;YES;1.0000;0.2350
+AdaptiveAgent;VortexAgent;movie date;YES;1.0000;0.2350
+MiCROAgent;RandomAgent;movie date;YES;0.7700;0.3500
+MiCROAgent;TimeBased_Boulware;movie date;YES;0.8200;0.8100
+MiCROAgent;TimeBased_Conceder;movie date;YES;0.8200;0.8100
+MiCROAgent;AdaptiveAgent;movie date;YES;0.8200;0.8100
+MiCROAgent;MiCROAgent;movie date;YES;0.8200;0.8100
+MiCROAgent;PhoenixAgent;movie date;YES;0.8200;0.8100
+MiCROAgent;VortexAgent;movie date;YES;0.9200;0.3100
+PhoenixAgent;RandomAgent;movie date;YES;1.0000;0.2350
+PhoenixAgent;TimeBased_Boulware;movie date;YES;0.9000;0.7350
+PhoenixAgent;TimeBased_Conceder;movie date;YES;0.9000;0.7350
+PhoenixAgent;AdaptiveAgent;movie date;YES;0.5100;1.0000
+PhoenixAgent;MiCROAgent;movie date;YES;0.7500;0.7750
+PhoenixAgent;PhoenixAgent;movie date;YES;0.5100;1.0000
+PhoenixAgent;VortexAgent;movie date;YES;1.0000;0.2350
+VortexAgent;RandomAgent;movie date;YES;0.3000;0.2250
+VortexAgent;TimeBased_Boulware;movie date;YES;0.5100;1.0000
+VortexAgent;TimeBased_Conceder;movie date;YES;0.5100;1.0000
+VortexAgent;AdaptiveAgent;movie date;YES;0.5100;1.0000
+VortexAgent;MiCROAgent;movie date;YES;0.5100;1.0000
+VortexAgent;PhoenixAgent;movie date;YES;0.5100;1.0000
+VortexAgent;VortexAgent;movie date;YES;1.0000;0.2350
+RandomAgent;RandomAgent;SmallCoop;YES;0.6801;0.0000
+RandomAgent;TimeBased_Boulware;SmallCoop;YES;0.6564;1.0000
+RandomAgent;TimeBased_Conceder;SmallCoop;YES;0.6564;1.0000
+RandomAgent;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+RandomAgent;MiCROAgent;SmallCoop;YES;0.0000;0.5035
+RandomAgent;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+RandomAgent;VortexAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Boulware;RandomAgent;SmallCoop;YES;1.3364;0.4965
+TimeBased_Boulware;TimeBased_Boulware;SmallCoop;YES;0.6564;1.0000
+TimeBased_Boulware;TimeBased_Conceder;SmallCoop;YES;1.3364;0.4965
+TimeBased_Boulware;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Boulware;MiCROAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Boulware;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Boulware;VortexAgent;SmallCoop;YES;1.3364;0.4965
+TimeBased_Conceder;RandomAgent;SmallCoop;YES;1.3364;0.4965
+TimeBased_Conceder;TimeBased_Boulware;SmallCoop;YES;0.6564;1.0000
+TimeBased_Conceder;TimeBased_Conceder;SmallCoop;YES;0.6564;1.0000
+TimeBased_Conceder;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Conceder;MiCROAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Conceder;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+TimeBased_Conceder;VortexAgent;SmallCoop;YES;1.3364;0.4965
+AdaptiveAgent;RandomAgent;SmallCoop;YES;1.3364;0.4965
+AdaptiveAgent;TimeBased_Boulware;SmallCoop;YES;1.3364;0.4965
+AdaptiveAgent;TimeBased_Conceder;SmallCoop;YES;1.3364;0.4965
+AdaptiveAgent;AdaptiveAgent;SmallCoop;YES;1.3364;0.4965
+AdaptiveAgent;MiCROAgent;SmallCoop;YES;0.6564;1.0000
+AdaptiveAgent;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+AdaptiveAgent;VortexAgent;SmallCoop;YES;1.3364;0.4965
+MiCROAgent;RandomAgent;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;TimeBased_Boulware;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;TimeBased_Conceder;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;MiCROAgent;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+MiCROAgent;VortexAgent;SmallCoop;YES;0.6564;1.0000
+PhoenixAgent;RandomAgent;SmallCoop;YES;1.3364;0.4965
+PhoenixAgent;TimeBased_Boulware;SmallCoop;YES;1.3364;0.4965
+PhoenixAgent;TimeBased_Conceder;SmallCoop;YES;1.3364;0.4965
+PhoenixAgent;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+PhoenixAgent;MiCROAgent;SmallCoop;YES;1.3364;0.4965
+PhoenixAgent;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+PhoenixAgent;VortexAgent;SmallCoop;YES;1.3364;0.4965
+VortexAgent;RandomAgent;SmallCoop;YES;1.3364;0.4965
+VortexAgent;TimeBased_Boulware;SmallCoop;YES;0.6564;1.0000
+VortexAgent;TimeBased_Conceder;SmallCoop;YES;0.6564;1.0000
+VortexAgent;AdaptiveAgent;SmallCoop;YES;0.6564;1.0000
+VortexAgent;MiCROAgent;SmallCoop;YES;0.6564;1.0000
+VortexAgent;PhoenixAgent;SmallCoop;YES;0.6564;1.0000
+VortexAgent;VortexAgent;SmallCoop;YES;1.3364;0.4965
+RandomAgent;RandomAgent;SmallComp;YES;0.0000;1.0000
+RandomAgent;TimeBased_Boulware;SmallComp;YES;0.0000;1.0000
+RandomAgent;TimeBased_Conceder;SmallComp;YES;0.0000;1.0000
+RandomAgent;AdaptiveAgent;SmallComp;YES;0.0000;1.0000
+RandomAgent;MiCROAgent;SmallComp;YES;0.0000;1.0000
+RandomAgent;PhoenixAgent;SmallComp;YES;0.0000;1.0000
+RandomAgent;VortexAgent;SmallComp;YES;1.1436;0.0069
+TimeBased_Boulware;RandomAgent;SmallComp;YES;1.1436;0.0069
+TimeBased_Boulware;TimeBased_Boulware;SmallComp;YES;0.8093;0.4291
+TimeBased_Boulware;TimeBased_Conceder;SmallComp;YES;0.8093;0.4291
+TimeBased_Boulware;AdaptiveAgent;SmallComp;NO;0.0000;0.0000
+TimeBased_Boulware;MiCROAgent;SmallComp;YES;0.8093;0.4291
+TimeBased_Boulware;PhoenixAgent;SmallComp;YES;0.3343;0.5778
+TimeBased_Boulware;VortexAgent;SmallComp;YES;1.1436;0.0069
+TimeBased_Conceder;RandomAgent;SmallComp;YES;1.1436;0.0069
+TimeBased_Conceder;TimeBased_Boulware;SmallComp;YES;0.3343;0.5778
+TimeBased_Conceder;TimeBased_Conceder;SmallComp;YES;0.8093;0.4291
+TimeBased_Conceder;AdaptiveAgent;SmallComp;YES;0.3343;0.5778
+TimeBased_Conceder;MiCROAgent;SmallComp;YES;0.8093;0.4291
+TimeBased_Conceder;PhoenixAgent;SmallComp;YES;0.3343;0.5778
+TimeBased_Conceder;VortexAgent;SmallComp;YES;1.1436;0.0069
+AdaptiveAgent;RandomAgent;SmallComp;YES;1.1436;0.0069
+AdaptiveAgent;TimeBased_Boulware;SmallComp;YES;1.1436;0.0069
+AdaptiveAgent;TimeBased_Conceder;SmallComp;YES;1.1436;0.0069
+AdaptiveAgent;AdaptiveAgent;SmallComp;YES;0.3343;0.5778
+AdaptiveAgent;MiCROAgent;SmallComp;YES;0.8093;0.4291
+AdaptiveAgent;PhoenixAgent;SmallComp;YES;1.1436;0.0069
+AdaptiveAgent;VortexAgent;SmallComp;YES;1.1436;0.0069
+MiCROAgent;RandomAgent;SmallComp;YES;0.5814;0.0000
+MiCROAgent;TimeBased_Boulware;SmallComp;YES;0.3343;0.5778
+MiCROAgent;TimeBased_Conceder;SmallComp;YES;0.3343;0.5778
+MiCROAgent;AdaptiveAgent;SmallComp;YES;0.3343;0.5778
+MiCROAgent;MiCROAgent;SmallComp;YES;0.8093;0.4291
+MiCROAgent;PhoenixAgent;SmallComp;YES;0.3343;0.5778
+MiCROAgent;VortexAgent;SmallComp;YES;1.1436;0.0069
+PhoenixAgent;RandomAgent;SmallComp;YES;1.1436;0.0069
+PhoenixAgent;TimeBased_Boulware;SmallComp;YES;0.8093;0.4291
+PhoenixAgent;TimeBased_Conceder;SmallComp;YES;0.8093;0.4291
+PhoenixAgent;AdaptiveAgent;SmallComp;YES;0.3343;0.5778
+PhoenixAgent;MiCROAgent;SmallComp;YES;0.8093;0.4291
+PhoenixAgent;PhoenixAgent;SmallComp;YES;1.1436;0.0069
+PhoenixAgent;VortexAgent;SmallComp;YES;1.1436;0.0069
+VortexAgent;RandomAgent;SmallComp;YES;1.1436;0.0069
+VortexAgent;TimeBased_Boulware;SmallComp;YES;0.3343;0.5778
+VortexAgent;TimeBased_Conceder;SmallComp;YES;0.3343;0.5778
+VortexAgent;AdaptiveAgent;SmallComp;YES;0.3343;0.5778
+VortexAgent;MiCROAgent;SmallComp;YES;0.3343;0.5778
+VortexAgent;PhoenixAgent;SmallComp;YES;0.3343;0.5778
+VortexAgent;VortexAgent;SmallComp;YES;1.1436;0.0069
+RandomAgent;RandomAgent;MedCoop;YES;1.2542;0.3290
+RandomAgent;TimeBased_Boulware;MedCoop;YES;0.4214;0.9920
+RandomAgent;TimeBased_Conceder;MedCoop;YES;0.0994;0.8934
+RandomAgent;AdaptiveAgent;MedCoop;YES;0.5339;1.0000
+RandomAgent;MiCROAgent;MedCoop;YES;0.6425;0.9453
+RandomAgent;PhoenixAgent;MedCoop;YES;0.5339;1.0000
+RandomAgent;VortexAgent;MedCoop;YES;0.2559;0.1523
+TimeBased_Boulware;RandomAgent;MedCoop;YES;1.2542;0.3290
+TimeBased_Boulware;TimeBased_Boulware;MedCoop;YES;0.8558;0.7473
+TimeBased_Boulware;TimeBased_Conceder;MedCoop;YES;0.8754;0.6456
+TimeBased_Boulware;AdaptiveAgent;MedCoop;YES;0.5339;1.0000
+TimeBased_Boulware;MiCROAgent;MedCoop;YES;0.8558;0.7473
+TimeBased_Boulware;PhoenixAgent;MedCoop;YES;0.6425;0.9453
+TimeBased_Boulware;VortexAgent;MedCoop;YES;1.0494;0.3964
+TimeBased_Conceder;RandomAgent;MedCoop;YES;1.1220;0.3721
+TimeBased_Conceder;TimeBased_Boulware;MedCoop;YES;0.6427;0.9959
+TimeBased_Conceder;TimeBased_Conceder;MedCoop;YES;0.8558;0.7473
+TimeBased_Conceder;AdaptiveAgent;MedCoop;YES;0.5339;1.0000
+TimeBased_Conceder;MiCROAgent;MedCoop;YES;0.8558;0.7473
+TimeBased_Conceder;PhoenixAgent;MedCoop;YES;0.5339;1.0000
+TimeBased_Conceder;VortexAgent;MedCoop;YES;1.3434;0.4266
+AdaptiveAgent;RandomAgent;MedCoop;YES;1.3366;0.3089
+AdaptiveAgent;TimeBased_Boulware;MedCoop;YES;1.3434;0.4266
+AdaptiveAgent;TimeBased_Conceder;MedCoop;YES;1.2346;0.4307
+AdaptiveAgent;AdaptiveAgent;MedCoop;YES;0.8754;0.6456
+AdaptiveAgent;MiCROAgent;MedCoop;NO;0.0000;0.0000
+AdaptiveAgent;PhoenixAgent;MedCoop;YES;1.3630;0.3249
+AdaptiveAgent;VortexAgent;MedCoop;YES;1.0494;0.3964
+MiCROAgent;RandomAgent;MedCoop;YES;1.0426;0.2788
+MiCROAgent;TimeBased_Boulware;MedCoop;YES;0.8558;0.7473
+MiCROAgent;TimeBased_Conceder;MedCoop;YES;0.8558;0.7473
+MiCROAgent;AdaptiveAgent;MedCoop;YES;0.8558;0.7473
+MiCROAgent;MiCROAgent;MedCoop;YES;0.8558;0.7473
+MiCROAgent;PhoenixAgent;MedCoop;YES;0.8558;0.7473
+MiCROAgent;VortexAgent;MedCoop;YES;1.3630;0.3249
+PhoenixAgent;RandomAgent;MedCoop;YES;1.3630;0.3249
+PhoenixAgent;TimeBased_Boulware;MedCoop;YES;1.3434;0.4266
+PhoenixAgent;TimeBased_Conceder;MedCoop;YES;1.3630;0.3249
+PhoenixAgent;AdaptiveAgent;MedCoop;YES;0.5339;1.0000
+PhoenixAgent;MiCROAgent;MedCoop;YES;0.8558;0.7473
+PhoenixAgent;PhoenixAgent;MedCoop;YES;0.8558;0.7473
+PhoenixAgent;VortexAgent;MedCoop;YES;1.3630;0.3249
+VortexAgent;RandomAgent;MedCoop;YES;0.2400;0.9699
+VortexAgent;TimeBased_Boulware;MedCoop;YES;0.5339;1.0000
+VortexAgent;TimeBased_Conceder;MedCoop;YES;0.4214;0.9920
+VortexAgent;AdaptiveAgent;MedCoop;YES;0.5339;1.0000
+VortexAgent;MiCROAgent;MedCoop;YES;0.3127;0.9961
+VortexAgent;PhoenixAgent;MedCoop;YES;0.5339;1.0000
+VortexAgent;VortexAgent;MedCoop;YES;1.3630;0.3249
+RandomAgent;RandomAgent;MedComp;YES;0.1488;0.4788
+RandomAgent;TimeBased_Boulware;MedComp;YES;0.1714;1.0000
+RandomAgent;TimeBased_Conceder;MedComp;YES;0.1714;1.0000
+RandomAgent;AdaptiveAgent;MedComp;YES;0.1714;1.0000
+RandomAgent;MiCROAgent;MedComp;YES;0.0580;0.6502
+RandomAgent;PhoenixAgent;MedComp;YES;0.1714;1.0000
+RandomAgent;VortexAgent;MedComp;YES;0.0000;0.5003
+TimeBased_Boulware;RandomAgent;MedComp;YES;1.0378;0.1939
+TimeBased_Boulware;TimeBased_Boulware;MedComp;YES;0.6937;0.5212
+TimeBased_Boulware;TimeBased_Conceder;MedComp;YES;0.7846;0.3498
+TimeBased_Boulware;AdaptiveAgent;MedComp;YES;0.1714;1.0000
+TimeBased_Boulware;MiCROAgent;MedComp;YES;0.6937;0.5212
+TimeBased_Boulware;PhoenixAgent;MedComp;YES;0.5154;0.6727
+TimeBased_Boulware;VortexAgent;MedComp;YES;1.1286;0.0225
+TimeBased_Conceder;RandomAgent;MedComp;YES;1.1286;0.0225
+TimeBased_Conceder;TimeBased_Boulware;MedComp;YES;0.2622;0.8286
+TimeBased_Conceder;TimeBased_Conceder;MedComp;YES;0.6937;0.5212
+TimeBased_Conceder;AdaptiveAgent;MedComp;YES;0.1714;1.0000
+TimeBased_Conceder;MiCROAgent;MedComp;YES;0.6937;0.5212
+TimeBased_Conceder;PhoenixAgent;MedComp;YES;0.1714;1.0000
+TimeBased_Conceder;VortexAgent;MedComp;YES;1.1286;0.0225
+AdaptiveAgent;RandomAgent;MedComp;YES;1.1286;0.0225
+AdaptiveAgent;TimeBased_Boulware;MedComp;YES;1.1286;0.0225
+AdaptiveAgent;TimeBased_Conceder;MedComp;YES;1.1286;0.0225
+AdaptiveAgent;AdaptiveAgent;MedComp;YES;0.2622;0.8286
+AdaptiveAgent;MiCROAgent;MedComp;YES;0.6937;0.5212
+AdaptiveAgent;PhoenixAgent;MedComp;YES;1.1286;0.0225
+AdaptiveAgent;VortexAgent;MedComp;YES;1.1286;0.0225
+MiCROAgent;RandomAgent;MedComp;YES;1.1286;0.0225
+MiCROAgent;TimeBased_Boulware;MedComp;YES;0.6937;0.5212
+MiCROAgent;TimeBased_Conceder;MedComp;YES;0.6937;0.5212
+MiCROAgent;AdaptiveAgent;MedComp;YES;0.6937;0.5212
+MiCROAgent;MiCROAgent;MedComp;YES;0.6937;0.5212
+MiCROAgent;PhoenixAgent;MedComp;YES;0.6937;0.5212
+MiCROAgent;VortexAgent;MedComp;YES;0.9797;0.0441
+PhoenixAgent;RandomAgent;MedComp;YES;1.1286;0.0225
+PhoenixAgent;TimeBased_Boulware;MedComp;YES;0.7846;0.3498
+PhoenixAgent;TimeBased_Conceder;MedComp;YES;1.0378;0.1939
+PhoenixAgent;AdaptiveAgent;MedComp;YES;0.1714;1.0000
+PhoenixAgent;MiCROAgent;MedComp;YES;0.6937;0.5212
+PhoenixAgent;PhoenixAgent;MedComp;YES;1.1286;0.0225
+PhoenixAgent;VortexAgent;MedComp;YES;1.1286;0.0225
+VortexAgent;RandomAgent;MedComp;YES;0.1714;1.0000
+VortexAgent;TimeBased_Boulware;MedComp;YES;0.1714;1.0000
+VortexAgent;TimeBased_Conceder;MedComp;YES;0.1714;1.0000
+VortexAgent;AdaptiveAgent;MedComp;YES;0.1714;1.0000
+VortexAgent;MiCROAgent;MedComp;YES;0.1134;0.8502
+VortexAgent;PhoenixAgent;MedComp;YES;0.1714;1.0000
+VortexAgent;VortexAgent;MedComp;YES;1.1286;0.0225
+RandomAgent;RandomAgent;LargeCoop;YES;0.6285;0.6003
+RandomAgent;TimeBased_Boulware;LargeCoop;YES;0.2513;1.0000
+RandomAgent;TimeBased_Conceder;LargeCoop;YES;0.2513;1.0000
+RandomAgent;AdaptiveAgent;LargeCoop;YES;0.2513;1.0000
+RandomAgent;MiCROAgent;LargeCoop;YES;0.9925;0.8522
+RandomAgent;PhoenixAgent;LargeCoop;YES;0.2513;1.0000
+RandomAgent;VortexAgent;LargeCoop;YES;0.5830;0.2853
+TimeBased_Boulware;RandomAgent;LargeCoop;YES;1.0298;0.1277
+TimeBased_Boulware;TimeBased_Boulware;LargeCoop;YES;0.8628;0.8541
+TimeBased_Boulware;TimeBased_Conceder;LargeCoop;YES;0.9925;0.8522
+TimeBased_Boulware;AdaptiveAgent;LargeCoop;YES;0.2513;1.0000
+TimeBased_Boulware;MiCROAgent;LargeCoop;YES;0.9925;0.8522
+TimeBased_Boulware;PhoenixAgent;LargeCoop;YES;0.5676;0.8965
+TimeBased_Boulware;VortexAgent;LargeCoop;YES;1.1288;0.6887
+TimeBased_Conceder;RandomAgent;LargeCoop;YES;1.1709;0.3525
+TimeBased_Conceder;TimeBased_Boulware;LargeCoop;YES;0.5464;0.9576
+TimeBased_Conceder;TimeBased_Conceder;LargeCoop;YES;0.9925;0.8522
+TimeBased_Conceder;AdaptiveAgent;LargeCoop;YES;0.2513;1.0000
+TimeBased_Conceder;MiCROAgent;LargeCoop;YES;0.9925;0.8522
+TimeBased_Conceder;PhoenixAgent;LargeCoop;YES;0.2513;1.0000
+TimeBased_Conceder;VortexAgent;LargeCoop;YES;1.0359;0.6956
+AdaptiveAgent;RandomAgent;LargeCoop;YES;1.1049;0.6602
+AdaptiveAgent;TimeBased_Boulware;LargeCoop;YES;1.1281;0.7409
+AdaptiveAgent;TimeBased_Conceder;LargeCoop;YES;1.1281;0.7409
+AdaptiveAgent;AdaptiveAgent;LargeCoop;YES;0.5464;0.9576
+AdaptiveAgent;MiCROAgent;LargeCoop;YES;1.1281;0.7409
+AdaptiveAgent;PhoenixAgent;LargeCoop;YES;1.1761;0.5877
+AdaptiveAgent;VortexAgent;LargeCoop;YES;1.0405;0.6989
+MiCROAgent;RandomAgent;LargeCoop;YES;1.1761;0.5877
+MiCROAgent;TimeBased_Boulware;LargeCoop;YES;1.1281;0.7409
+MiCROAgent;TimeBased_Conceder;LargeCoop;YES;1.1281;0.7409
+MiCROAgent;AdaptiveAgent;LargeCoop;YES;1.1281;0.7409
+MiCROAgent;MiCROAgent;LargeCoop;YES;1.1281;0.7409
+MiCROAgent;PhoenixAgent;LargeCoop;YES;1.1281;0.7409
+MiCROAgent;VortexAgent;LargeCoop;YES;1.1716;0.3003
+PhoenixAgent;RandomAgent;LargeCoop;YES;1.1768;0.5355
+PhoenixAgent;TimeBased_Boulware;LargeCoop;YES;1.1288;0.6887
+PhoenixAgent;TimeBased_Conceder;LargeCoop;YES;1.1768;0.5355
+PhoenixAgent;AdaptiveAgent;LargeCoop;YES;0.6974;0.8946
+PhoenixAgent;MiCROAgent;LargeCoop;YES;0.9983;0.7428
+PhoenixAgent;PhoenixAgent;LargeCoop;YES;0.9925;0.8522
+PhoenixAgent;VortexAgent;LargeCoop;YES;1.1768;0.5355
+VortexAgent;RandomAgent;LargeCoop;YES;1.1768;0.5355
+VortexAgent;TimeBased_Boulware;LargeCoop;YES;0.2513;1.0000
+VortexAgent;TimeBased_Conceder;LargeCoop;YES;0.2513;1.0000
+VortexAgent;AdaptiveAgent;LargeCoop;YES;0.2513;1.0000
+VortexAgent;MiCROAgent;LargeCoop;YES;0.2513;1.0000
+VortexAgent;PhoenixAgent;LargeCoop;YES;0.2513;1.0000
+VortexAgent;VortexAgent;LargeCoop;YES;1.1768;0.5355
+RandomAgent;RandomAgent;LargeComp;YES;0.7587;0.2610
+RandomAgent;TimeBased_Boulware;LargeComp;YES;0.0809;1.0000
+RandomAgent;TimeBased_Conceder;LargeComp;YES;0.0809;1.0000
+RandomAgent;AdaptiveAgent;LargeComp;YES;0.0809;1.0000
+RandomAgent;MiCROAgent;LargeComp;YES;0.2945;0.7366
+RandomAgent;PhoenixAgent;LargeComp;YES;0.0809;1.0000
+RandomAgent;VortexAgent;LargeComp;YES;0.6984;0.2097
+TimeBased_Boulware;RandomAgent;LargeComp;YES;1.0147;0.0169
+TimeBased_Boulware;TimeBased_Boulware;LargeComp;YES;0.6069;0.5844
+TimeBased_Boulware;TimeBased_Conceder;LargeComp;YES;0.8417;0.3412
+TimeBased_Boulware;AdaptiveAgent;LargeComp;YES;0.0809;1.0000
+TimeBased_Boulware;MiCROAgent;LargeComp;YES;0.7130;0.5515
+TimeBased_Boulware;PhoenixAgent;LargeComp;YES;0.3971;0.8071
+TimeBased_Boulware;VortexAgent;LargeComp;YES;1.0645;0.0070
+TimeBased_Conceder;RandomAgent;LargeComp;YES;0.9335;0.0294
+TimeBased_Conceder;TimeBased_Boulware;LargeComp;YES;0.3971;0.8071
+TimeBased_Conceder;TimeBased_Conceder;LargeComp;YES;0.6069;0.5844
+TimeBased_Conceder;AdaptiveAgent;LargeComp;YES;0.0809;1.0000
+TimeBased_Conceder;MiCROAgent;LargeComp;YES;0.6668;0.5728
+TimeBased_Conceder;PhoenixAgent;LargeComp;YES;0.2107;0.9047
+TimeBased_Conceder;VortexAgent;LargeComp;YES;1.0645;0.0070
+AdaptiveAgent;RandomAgent;LargeComp;YES;1.0645;0.0070
+AdaptiveAgent;TimeBased_Boulware;LargeComp;YES;1.0184;0.0283
+AdaptiveAgent;TimeBased_Conceder;LargeComp;YES;1.0645;0.0070
+AdaptiveAgent;AdaptiveAgent;LargeComp;YES;0.0809;1.0000
+AdaptiveAgent;MiCROAgent;LargeComp;YES;0.7130;0.5515
+AdaptiveAgent;PhoenixAgent;LargeComp;YES;1.0645;0.0070
+AdaptiveAgent;VortexAgent;LargeComp;YES;1.0645;0.0070
+MiCROAgent;RandomAgent;LargeComp;YES;1.0147;0.0169
+MiCROAgent;TimeBased_Boulware;LargeComp;YES;0.7130;0.5515
+MiCROAgent;TimeBased_Conceder;LargeComp;YES;0.7130;0.5515
+MiCROAgent;AdaptiveAgent;LargeComp;YES;0.7130;0.5515
+MiCROAgent;MiCROAgent;LargeComp;YES;0.7130;0.5515
+MiCROAgent;PhoenixAgent;LargeComp;YES;0.7130;0.5515
+MiCROAgent;VortexAgent;LargeComp;YES;1.0645;0.0070
+PhoenixAgent;RandomAgent;LargeComp;YES;1.0645;0.0070
+PhoenixAgent;TimeBased_Boulware;LargeComp;YES;0.8417;0.3412
+PhoenixAgent;TimeBased_Conceder;LargeComp;YES;0.9689;0.3074
+PhoenixAgent;AdaptiveAgent;LargeComp;YES;0.5270;0.7118
+PhoenixAgent;MiCROAgent;LargeComp;YES;0.6668;0.5728
+PhoenixAgent;PhoenixAgent;LargeComp;YES;0.6069;0.5844
+PhoenixAgent;VortexAgent;LargeComp;YES;1.0645;0.0070
+VortexAgent;RandomAgent;LargeComp;YES;1.0645;0.0070
+VortexAgent;TimeBased_Boulware;LargeComp;YES;0.0809;1.0000
+VortexAgent;TimeBased_Conceder;LargeComp;YES;0.0809;1.0000
+VortexAgent;AdaptiveAgent;LargeComp;YES;0.0809;1.0000
+VortexAgent;MiCROAgent;LargeComp;YES;0.0565;0.9163
+VortexAgent;PhoenixAgent;LargeComp;YES;0.0809;1.0000
+VortexAgent;VortexAgent;LargeComp;YES;1.0645;0.0070
